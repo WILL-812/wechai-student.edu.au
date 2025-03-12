@@ -3,9 +3,29 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>
+        Group Assignment 1
+    </title>
 </head>
 <body>
-    
-</body>
-</html>
+    <h1>
+        Group Assignment 1
+    </h1>
+    <h2>Group 4</h2>
+
+    <img src="AR_anon.PNG" alt="A black skin girl" width="20%" height="">
+    <ul>
+        <li>weichai 1537940</li>
+        <li>Geri</li>
+        <li>Ah</li>
+        <li>Chen</li>
+    </ul>
+    <br><br><br><br><br><br>
+    <h3>Alice hobbies</h3>
+    <img src="garden1.JPG" alt="A garden with the Japanese style lamp" width="20%" height="">
+    <p>A zen garden.</p>
+    <br>
+    <img src="garden2.JPG" alt="A hideous tree" width="20%" height="">
+    <p>A zen garden.</p>
+    <a href="1537940.html">linkclippers</a>
+    <br>
